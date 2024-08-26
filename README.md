@@ -1,8 +1,10 @@
 ## Seja bem vindo ao meu perfil
 <br>
-> me chamo <bold> Gustavo Somma Ferracini </bold> 
+<i>
+ me chamo <bold> Gustavo Somma Ferracini </bold> 
 <br>
-> tenho <code>15 anos</code>
+ tenho <code>15 anos</code>
 <br>
-> estou estudando na [Alura](https://alura.com.br/)
+ estou estudando na escola estadual professor mario marques de oliveira
 <br>
+</i>
